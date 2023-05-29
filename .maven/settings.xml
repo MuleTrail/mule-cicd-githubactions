@@ -4,7 +4,7 @@
     <server>
       <id>MuleRepository</id>
       <username>${env.NEXUSUSERNAME}</username>
-      <password>${env.NEXUS_PASSWORD}</password>
+      <password>${env.NEXUSPASSWORD}</password>
     </server>
     <server>
       <id>anypoint-exchange-v2</id>
